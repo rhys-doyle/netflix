@@ -16,6 +16,13 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/nficon2016.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/nficon2016.ico",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -34,15 +41,131 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/style-min.css": {
+	"\/reset-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/style-min-min.css",
+		"oAP": "\/reset-min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/reset.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/reset-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/amex.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/resources\/amex.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/check.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/resources\/check.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/resources\/chevron.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/resources\/chevron.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/resources\/lock.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/resources\/lock.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/resources\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/resources\/mastercard.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mastercard.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/netflix.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/resources\/netflix.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/paypal.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/resources\/paypal.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/visa.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/resources\/visa.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/x.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/resources\/x.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/style.css": {
 		"aP": 1,
