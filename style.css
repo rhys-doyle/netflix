@@ -152,6 +152,15 @@ thead th:nth-child(4) span {
   background-color: red;
 }
 
+svg {
+  stroke-width: 1.2;
+  stroke: #a0a0a0;
+}
+
+tr td:nth-child(4) svg {
+  stroke: red;
+}
+
 strong {
   font-weight: 600;
 }
