@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -167,6 +174,33 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/script.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/script-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/step2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/step2.html",
+		"oF": 0
+		},
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -174,6 +208,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/style2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style2-min.css",
 		"oF": 0,
 		"oS": 3
 		}
