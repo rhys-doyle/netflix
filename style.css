@@ -80,6 +80,37 @@ table {
   text-align: center;
 }
 
+th {
+  padding: 0 34px 13px 34px;
+}
+
+thead th:first-child {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+thead th:nth-child(1) {
+  max-width: 23rem;
+}
+
+.redBox {
+  width: 122px;
+  height: 122px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.55);
+  color: white;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  border-radius: 2px;
+}
+
+thead th:nth-child(4) span {
+  background-color: red;
+}
+
 strong {
   font-weight: 600;
 }
