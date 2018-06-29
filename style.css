@@ -165,6 +165,15 @@ tr td:nth-child(4) {
   color: red;
 }
 
+caption {
+  padding: 12px 8px 24px 17.6px;
+  font-size: 0.8rem;
+  text-align: left;
+  line-height: 14px;
+  letter-spacing: 0.1px;
+  color: #a5a5a5;
+}
+
 strong {
   font-weight: 600;
 }
