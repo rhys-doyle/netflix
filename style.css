@@ -114,6 +114,10 @@ tbody tr td {
   letter-spacing: 0.5px;
 }
 
+tbody tr:nth-child(4) td {
+  padding-top: 21px;
+}
+
 .redBox {
   width: 122px;
   height: 122px;
