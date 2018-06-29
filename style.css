@@ -98,6 +98,14 @@ td {
   font-size: 15px;
 }
 
+tr td:nth-child(1) {
+  padding-left: 17px;
+  text-align: left;
+  max-width: 23rem;
+  width: 100%;
+  color: black;
+  font-size: 1rem;
+}
 .redBox {
   width: 122px;
   height: 122px;
