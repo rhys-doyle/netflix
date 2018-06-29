@@ -93,6 +93,11 @@ thead th:nth-child(1) {
   max-width: 23rem;
 }
 
+td {
+  color: #a0a0a0;
+  font-size: 15px;
+}
+
 .redBox {
   width: 122px;
   height: 122px;
