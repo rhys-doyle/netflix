@@ -43,3 +43,31 @@ body {
     font-size: 11px;
   }
 }
+
+.firstStep {
+  max-width: 950px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 26px 0 0 34px;
+}
+
+.firstStep span {
+  font-size: 13px;
+  padding: 11px 0 0 0;
+}
+
+.firstStep h1 {
+  font-size: 23.7px;
+  padding: 12px 0 0 0;
+  font-weight: 500;
+  line-height: 19px;
+}
+
+.firstStep h2 {
+  font-size: 16px;
+  padding: 14px 0 0 0;
+}
+
+strong {
+  font-weight: 600;
+}
