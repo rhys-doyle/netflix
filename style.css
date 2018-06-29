@@ -106,6 +106,14 @@ tr td:nth-child(1) {
   color: black;
   font-size: 1rem;
 }
+
+tbody tr td {
+  padding-bottom: 21.4px;
+  padding-top: 13px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
+
 .redBox {
   width: 122px;
   height: 122px;
