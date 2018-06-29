@@ -188,6 +188,11 @@ caption {
   font-weight: 300;
 }
 
+caption a {
+  color: #2f7af2;
+  text-decoration: none;
+}
+
 .check {
   transform: rotate(356deg);
 }
