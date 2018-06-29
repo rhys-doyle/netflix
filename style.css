@@ -81,7 +81,7 @@ table {
 }
 
 th {
-  padding: 0 34px 13px 34px;
+  padding: 0 34px 7px 34px;
 }
 
 thead th:first-child {
@@ -99,7 +99,7 @@ td {
 }
 
 tr td:nth-child(1) {
-  padding-left: 17px;
+  padding: 21px 0 22px 17px;
   text-align: left;
   max-width: 23rem;
   width: 100%;
@@ -108,13 +108,13 @@ tr td:nth-child(1) {
 }
 
 tbody tr td {
-  padding-bottom: 21.4px;
-  padding-top: 13px;
+  /* padding-bottom: 21.4px;
+  padding-top: 13px; */
   font-weight: 300;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.56px;
 }
 
-tbody tr:nth-child(4) td {
+/* tbody tr:nth-child(4) td {
   padding-top: 21px;
 }
 
@@ -124,7 +124,7 @@ tbody tr:nth-child(6) td {
 
 tbody tr:nth-child(7) td {
   padding-top: 12px;
-}
+} */
 
 tbody tr {
   border-bottom: 1px solid #e9e9e9;
@@ -133,6 +133,15 @@ tbody tr {
 tbody tr:nth-child(8) {
   border-bottom: none;
 }
+
+tr td:not(:first-child) {
+  vertical-align: middle;
+}
+
+/* tbody tr:not(:first-child) td:not(:first-child) {
+  padding-top: 18px;
+  padding-bottom: 18px;
+} */
 
 .redBox {
   width: 122px;
@@ -172,6 +181,7 @@ caption {
   line-height: 14px;
   letter-spacing: 0.1px;
   color: #a5a5a5;
+  font-weight: 300;
 }
 
 .continue {
