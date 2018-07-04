@@ -110,6 +110,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/resources\/lock.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/resources\/lock.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/resources\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -191,6 +201,13 @@
 		"oAP": "\/step2.html",
 		"oF": 0
 		},
+	"\/step3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/step3.html",
+		"oF": 0
+		},
 	"\/style-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -208,16 +225,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/style2.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/style2-min.css",
 		"oF": 0,
 		"oS": 3
 		}
