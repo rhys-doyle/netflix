@@ -176,7 +176,7 @@ tr td:nth-child(4) {
 
 caption {
   padding: 12px 8px 24px 17.6px;
-  font-size: 0.8rem;
+  font-size: 13.9px;
   text-align: left;
   line-height: 14px;
   letter-spacing: 0.1px;
@@ -209,4 +209,203 @@ caption a {
 
 strong {
   font-weight: 600;
+}
+
+.secondStep {
+  max-width: 474px;
+  padding-top: 39px;
+}
+
+.secondStep h2 {
+  line-height: 20.4px;
+  font-size: 19.1px;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+}
+
+.secondStep h3 {
+  padding: 1rem 0 0 0;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.inputBoxes {
+  margin: 0 auto;
+  max-width: 441px;
+  padding: 12px 0 0 0;
+}
+
+.accountInfo {
+  display: block;
+  width: 100%;
+  padding: 19px 0 19px 8px;
+  font-size: 1rem;
+  font-weight: 300;
+  color: #808080;
+}
+
+.inputBoxes input:nth-child(2) {
+  margin-top: 10px;
+}
+
+#specialOffers {
+  display: none;
+}
+
+.checkbox {
+  display: none;
+}
+
+.checkboxDiv {
+  padding: 12px 0 27px 0;
+}
+
+.checkboxLabel {
+  display: flex;
+  align-items: center;
+}
+
+.checkboxLabel span {
+  padding: 0 0 0 10px;
+}
+
+.checkboxLabel:before {
+  content: "";
+  display: block;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #686868;
+  cursor: pointer;
+  text-align: center;
+  line-height: 24px;
+}
+
+.checkbox:checked + .checkboxLabel:before {
+  content: "✔";
+}
+
+.thirdStep {
+  margin: 0 auto;
+  max-width: 300px;
+  text-align: center;
+  padding-left: 0;
+}
+
+.lockIcon {
+  margin: 0 auto;
+  max-width: 50px;
+  text-align: center;
+  padding: 39px 0 20px 0;
+}
+
+.lockIcon img {
+  width: 100%;
+}
+
+.thirdStep h1 {
+  padding: 9px 0 34px 0;
+}
+
+.thirdStep h2 {
+  font-size: 17px;
+  padding: 0 0 26px 0;
+  max-width: 192px;
+  margin: 0 auto;
+}
+
+.thirdStep h2 span {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.thirdStep h2:nth-child(5) {
+  padding-bottom: 14px;
+}
+
+.paymentInputs {
+  max-width: 500px;
+  padding: 5px 0 0 0;
+  position: relative;
+}
+
+.paymentInputs input:not(:first-child) {
+  margin-top: 7px;
+}
+
+.paymentInfo {
+  padding: 20px 0 20px 14px;
+  font-weight: 300;
+  font-size: 1rem;
+  width: 100%;
+  border: 2px solid #cecece;
+  border-radius: 4px;
+}
+
+.paymentIcons {
+  margin: 0 auto;
+  z-index: 100;
+  position: relative;
+  max-width: 128px;
+  align-items: center;
+  text-align: center;
+}
+
+.paymentInputs input::placeholder {
+  color: black;
+}
+
+.paymentIcons img {
+  max-width: 2rem;
+  padding-right: 7.5px;
+}
+
+.ccIcons {
+  display: block;
+  right: 9px;
+  bottom: 181px;
+}
+
+.ppIcon {
+  right: 127px;
+  bottom: 135px;
+}
+
+.ppIcon img {
+  max-width: 5rem;
+}
+
+.nfIcon {
+  right: 128px;
+  bottom: 87px;
+}
+
+.nfIcon img {
+  max-width: 2.1rem;
+}
+
+.arrowButton {
+  margin: 0 auto;
+  z-index: 100;
+  position: relative;
+  width: 12px;
+  height: 12px;
+  border: 2px solid #cecece;
+  border-left: none;
+  border-bottom: none;
+  transform: rotate(45deg);
+}
+
+.arrow1 {
+  left: 224px;
+  bottom: 245px;
+}
+
+.arrow2 {
+  left: 224px;
+  bottom: 191px;
+}
+
+.arrow3 {
+  left: 224px;
+  bottom: 135px;
 }
